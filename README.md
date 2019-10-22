@@ -1,2 +1,0 @@
-# zerkdegrender
-project creater
